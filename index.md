@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  Proteins in inborn eye diseases
+title:  Genes/proteins in inborn eye diseases
 permalink: /
 ---
 
