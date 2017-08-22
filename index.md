@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CD82 bioinformatics pages
+title:  Proteins in inborn eye diseases
 permalink: /
 ---
 
