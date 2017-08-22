@@ -25,7 +25,7 @@ title: Fulton/Bodamer lab opthalmology pages
 email: bodamerlab@childrens.harvard.edu
 description: > # this means to ignore newlines until "baseurl:"
   Genes and proteins implcated in inborn eye diseases
-baseurl: "ophthalmology" 
+baseurl: "/ophthalmology" 
 url: "https://bodamerlab.github.io" 
 
 
