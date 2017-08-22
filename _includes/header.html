@@ -5,7 +5,7 @@
 				<li><a href="{{ "/" | prepend: site.baseurl }}">RS1 home</a></li>
 				{% for page in site.pages %} 
                                     {% if page.title %} {% unless page.permalink =='/' %}
-                                        <li><a href="{{ page.url  }}">{{ page.title }}</a></li>
+                                        <li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
                                     {% endunless %} {% endif %} 
                                 {% endfor %}
 			</ul>
