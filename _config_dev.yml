@@ -14,7 +14,9 @@
 # You can create any custom variable you would like, and they will be accessible
 
 # to run locally do
-
+# jekyll serve --config _config.yml,_config_dev.yml
+# opens in
+# http://localhost:4000/
 # in the templates via {{ site.myvariable }}.
 title: RS1 bioinfo
 email: ivana.mihalek@childrens.harvard.edu
