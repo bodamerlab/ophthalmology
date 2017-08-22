@@ -4,12 +4,10 @@ title: Genes
 permalink: /genes/
 ---
 
-{% for post in site.posts %}
-  <article>
-    <h2>
-      <a href="{{ post.url }}">
-        {{ post.title }}
-      </a>
-    </h2>
-  </article>
-{% endfor %}
+<ul>
+  {% for post in site.posts reversed %}
+    <li>
+      <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
