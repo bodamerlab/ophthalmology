@@ -22,7 +22,7 @@ title: Fulton/Bodamer lab opthalmology pages
 email: ivana.mihalek@childrens.harvard.edu
 description: > # this means to ignore newlines until "baseurl:"
   Genes and proteins implicated in inborn eye diseases
-baseurl: "" 
+baseurl: "/readthrough/html" 
 url: "" 
 
 # directory for the final product 
