@@ -10,10 +10,10 @@ if (location.protocol==='file:') {
     var depth =  $('link[rel="canonical"]').attr('href').match(/\//g).length;
      console.log (depth);
    if (depth<=1) {
-	relative = './';
+	   relative = './';
    } else {
-	relative = Array(depth).join('../'); // that's just how its done in js
-    }
+	   relative = Array(depth).join('../'); // that's just how its done in js
+   }
     console.log (relative);    
 }
 
