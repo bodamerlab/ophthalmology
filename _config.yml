@@ -1,7 +1,11 @@
 # Welcome to Jekyll!
 #
-
+#
+#git add .
+#git commit -am "some message"
 #git push origin gh-pages
+
+# https://bodamerlab.github.io/ophthalmology/
 
 
 # This config file is meant for settings that affect your whole blog, values
@@ -20,9 +24,9 @@
 title: Fulton/Bodamer lab opthalmology pages
 email: bodamerlab@childrens.harvard.edu
 description: > # this means to ignore newlines until "baseurl:"
-  Readthrough therapy candidates in inborn eye diseases
+  Genes and proteins implcated in inborn eye diseases
 baseurl: "ophthalmology" 
-url: "http://bodamerlab.github.io" 
+url: "https://bodamerlab.github.io" 
 
 # directory for the final product 
 destination: ../html

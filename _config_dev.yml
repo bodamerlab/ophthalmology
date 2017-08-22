@@ -18,10 +18,10 @@
 # opens in
 # http://localhost:4000/
 # in the templates via {{ site.myvariable }}.
-title: RS1 bioinfo
+title: Fulton/Bodamer lab opthalmology pages
 email: ivana.mihalek@childrens.harvard.edu
 description: > # this means to ignore newlines until "baseurl:"
-  Bioinformatics pages for RS1 protein.
+  Genes and proteins implcated in inborn eye diseases
 baseurl: "" 
 url: "" 
 
